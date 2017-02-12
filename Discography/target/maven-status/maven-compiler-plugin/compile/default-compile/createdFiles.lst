@@ -1,0 +1,11 @@
+com\mycompany\portsgroup\Albums_.class
+com\mycompany\portsgroup\Tracks_.class
+service\ApplicationConfig.class
+com\mycompany\portsgroup\Singer.class
+com\mycompany\portsgroup\Tracks.class
+service\TracksFacadeREST.class
+com\mycompany\portsgroup\Singer_.class
+service\AbstractFacade.class
+service\AlbumsFacadeREST.class
+service\SingerFacadeREST.class
+com\mycompany\portsgroup\Albums.class
